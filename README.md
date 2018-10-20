@@ -1,5 +1,5 @@
 # UDPServer
-Simple Java program that uses datagram communication
+Simple Java program that uses datagram communication.
 Since UDP doesn't account for lost messages, we use a HashMap to save temporarily messages that were delivered out of order.
 
 ### Prerequisites
